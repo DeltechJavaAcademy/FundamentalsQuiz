@@ -1,3 +1,5 @@
+package com.dtcc.quiz;
+
 public class MathUtilities {
     /**
      * Add two number together

@@ -1,3 +1,6 @@
+package com.dtcc.quiz;
+
+import com.dtcc.quiz.StringUtilities;
 import org.junit.Before;
 import org.junit.Test;
 

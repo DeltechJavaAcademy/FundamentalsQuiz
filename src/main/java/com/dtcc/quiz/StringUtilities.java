@@ -1,3 +1,5 @@
+package com.dtcc.quiz;
+
 public class StringUtilities {
     /**
      * @param input value to be returned

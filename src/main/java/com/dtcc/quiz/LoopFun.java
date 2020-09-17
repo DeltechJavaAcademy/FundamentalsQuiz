@@ -1,3 +1,5 @@
+package com.dtcc.quiz;
+
 public class LoopFun {
     /**
      * Given a number, return the factorial of that number.
